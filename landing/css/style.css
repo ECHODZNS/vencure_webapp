@@ -344,9 +344,9 @@ img{
 }
 .macbook_img .mac_ol_img {
 	position: absolute;
-	left: 103px;
-	top: 30px;
-	width: 75%;
+	left: 66px;
+	top: 5px;
+	width: 84%;
 	height: 87%;
 }
 .ftr_anncment_box{
@@ -594,7 +594,6 @@ img{
     font-size: 25px;
 }
 /* Back to top btn part End */
-
 
 ::-webkit-scrollbar {
   width: 8px;
